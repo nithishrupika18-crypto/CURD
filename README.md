@@ -82,7 +82,7 @@ To develop a Django-based web application that performs CRUD (Create, Read, Upda
 
 ## OUTPUT
 
-![alt text](<Screenshot 2026-11-21 180319.png>)
+![alt text](<Screenshot 2026-11-21 200514.png>)
 
 ## RESULT
 
